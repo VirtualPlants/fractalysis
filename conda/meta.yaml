@@ -23,6 +23,9 @@ requirements:
   run:
     - vplants.plantgl
     - qt <5
+    - scipy
+    - openalea.mtg
+    - pillow
 
 test:
   imports:
