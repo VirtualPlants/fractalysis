@@ -16,6 +16,7 @@ requirements:
   build:
     - python
     - openalea.deploy #==2.0.0
+    - openalea.sconsx #==2.0.0
     - boost
     - qt <5
     - vplants.plantgl
