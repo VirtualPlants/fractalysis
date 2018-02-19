@@ -17,11 +17,11 @@ requirements:
     - python
     - openalea.deploy #==2.0.0
     - openalea.sconsx
-    - boost
+    - boost >1.57
     - qt <5
     - openalea.plantgl
   run:
-    - boost
+    - boost >1.57
     - openalea.plantgl
     - qt <5
     - numpy
